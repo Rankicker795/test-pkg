@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: rallen-ralpkg
+Version: 1.0.0
+Summary: Test the package
+Home-page: UNKNOWN
+Author: Roger Allen
+Author-email: roger.allen795@gmail.com
+License: MIT
+Description: I am testing how to build a package in python.
+        
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
